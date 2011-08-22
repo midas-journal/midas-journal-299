@@ -1,0 +1,68 @@
+8
+
+dir
+346
+svn+ssh://orchestra/svn/megason/Code/gelas/trunk/doc/InsightJournal/QEMESH/DelaunayConforming/fig
+svn+ssh://orchestra/svn/megason/Code
+
+
+
+2008-07-07T18:01:26.823192Z
+101
+ajg23
+
+
+svn:special svn:externals svn:needs-lock
+
+wave0.png
+file
+
+
+
+
+2008-07-07T17:52:26.000000Z
+e0f6e4168c635def1fb78f3747a81e61
+2008-07-07T18:01:26.823192Z
+101
+ajg23
+has-props
+
+wave1.png
+file
+
+
+
+
+2008-07-07T17:54:02.000000Z
+dcb68b4b2cf290a23b75eabd60a4d68b
+2008-07-07T18:01:26.823192Z
+101
+ajg23
+has-props
+
+flip0.png
+file
+
+
+
+
+2008-07-07T15:48:22.000000Z
+d478ff2c66b4968fc37dc2d07b620590
+2008-07-07T18:01:26.823192Z
+101
+ajg23
+has-props
+
+flip1.png
+file
+
+
+
+
+2008-07-07T15:44:54.000000Z
+162f9c15b96df2e2a0d328712658d2a2
+2008-07-07T18:01:26.823192Z
+101
+ajg23
+has-props
+
